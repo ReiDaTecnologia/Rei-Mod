@@ -1,0 +1,6 @@
+displayName = Rei's Mod
+author = Rei Da Tecnologia
+version = 1.0
+weakReferences = ManaFruit
+includeSource = true
+homepage = https://github.com/ReiDaTecnologia/Rei-Mod
