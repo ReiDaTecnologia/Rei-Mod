@@ -53,7 +53,7 @@
 - I don't like how you can summon the Wall of Flesh by accident so this tweak make the WOF only spawn if the Guide Voodoo Doll is directly dropped by the player
 
 ## ShellPhone
-- An extension for [Cellphone Portal](https://steamcommunity.com/sharedfiles/filedetails/?id=2848951322) that make all the ShellPhone's tp mode leave a return portal
+- An extension for [Cellphone Portal mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2848951322) that make all the ShellPhone's tp mode leave a return portal. Without Cellphone Portal mod, the Home tp mode is the only one that don't leave a return portal
 
 ## Summoning Potion
 - Make the summoning potion also give an additional sentry slot
