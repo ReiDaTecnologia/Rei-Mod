@@ -1,0 +1,118 @@
+Mods: {
+	ReiMod: {
+		Keybinds: {
+			LightPetUp.DisplayName: Light Pet Up
+			LightPetDown.DisplayName: Light Pet Down
+			LightPetLeft.DisplayName: Light Pet Left
+			LightPetRight.DisplayName: Light Pet Right
+			Trash.DisplayName: Trash
+		}
+
+		Items: {
+			AngelBlock: {
+				DisplayName: Angel Block
+				Tooltip: Place the block where you click
+			}
+
+			AngelWall: {
+				DisplayName: Angel Wall
+				Tooltip: Place the wall where you click
+			}
+
+			ManaJuice: {
+				DisplayName: Mana Juice
+				Tooltip:
+					'''
+					Give you the mana needed to use the item if you don't have enough
+					10 seconds cooldown
+					'''
+			}
+
+			HeightFixedStatues_Bat: {
+				DisplayName: Bat Statue
+				Tooltip: Height Fixed Version
+			}
+
+			HeightFixedStatues_Worm: {
+				DisplayName: Worm Statue
+				Tooltip: Height Fixed Version
+			}
+
+			HeightFixedStatues_Buggy: {
+				DisplayName: Buggy Statue
+				Tooltip: Height Fixed Version
+			}
+
+			HeightFixedStatues_Mouse: {
+				DisplayName: Mouse Statue
+				Tooltip: Height Fixed Version
+			}
+
+			HeightFixedStatues_Fish: {
+				DisplayName: Fish Statue
+				Tooltip: Height Fixed Version
+			}
+
+			HeightFixedStatues_Snail: {
+				DisplayName: Snail Statue
+				Tooltip: Height Fixed Version
+			}
+
+			HeightFixedStatues_Frog: {
+				DisplayName: Frog Statue
+				Tooltip: Height Fixed Version
+			}
+
+			HeightFixedStatues_Turtle: {
+				DisplayName: Turtle Statue
+				Tooltip: Height Fixed Version
+			}
+
+			HeightFixedStatues_Piranha: {
+				DisplayName: Piranha Statue
+				Tooltip: Height Fixed Version
+			}
+
+			HeightFixedStatues_Shark: {
+				DisplayName: Shark Statue
+				Tooltip: Height Fixed Version
+			}
+
+			HeightFixedStatues_Anvil: {
+				DisplayName: Anvil Statue
+				Tooltip: Height Fixed Version
+			}
+
+			HeightFixedStatues_Bird: {
+				DisplayName: Bird Statue
+				Tooltip: Height & Width Fixed Version
+			}
+
+			LifeJuice: {
+				DisplayName: Life Juice
+				Tooltip:
+					'''
+					Heal you back to full health if it goes below 100
+					One minute cooldown
+					'''
+			}
+
+			BiomeLockBox: {
+				DisplayName: Biome Lock Box
+				Tooltip: Right click to open
+			}
+
+			MagnetPotion: {
+				DisplayName: Magnet Potion
+				Tooltip: Increase item pickup range to 12 tiles
+			}
+		}
+
+		Buffs: {
+			MagnetBuff: {
+				DisplayName: Magnet
+				Description: Increase item pickup range to 12 tiles
+			}
+		}
+	}
+}
